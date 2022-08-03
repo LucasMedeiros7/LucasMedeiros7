@@ -4,11 +4,9 @@ Hi 👋 My name is Lucas Medeiros
 👨🏽‍🎓 Aspiring web developer
 ------------------------------
 
-🌱 I'm currently studying fullstack web development in Resilia
-
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [lucaasmedeiros7@gmail.com](mailto:lucaasmedeiros7@gmail.com)
-* 🧠  I'm learning Javascript and Bootstrap.
+- 🌍  I'm based in Brazil
+- ✉️  You can contact me at [lucaasmedeiros7@gmail.com](mailto:lucaasmedeiros7@gmail.com)
+- 🌱 I'm currently studying fullstack web development in Resilia
 
 ### Skills
 
@@ -18,7 +16,6 @@ Hi 👋 My name is Lucas Medeiros
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
-<img src="https://www.codewars.com/users/LucasMedeiros7/badges/small"/>
 
 
 ### Socials
