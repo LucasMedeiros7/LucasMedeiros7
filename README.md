@@ -1,10 +1,10 @@
 # Hi 👋 My name is Lucas Medeiros
 
-## 👨🏽‍🎓 Aspiring web developer
+## ⚛️ Software developer
 
 - 🌍  I'm based in Brazil
 - ✉️  You can contact me at [lucaasmedeiros7@gmail.com](mailto:lucaasmedeiros7@gmail.com)
-- 🌱 I'm currently studying fullstack web development in Resilia
+- 🌱  I'm currently studying fullstack web development in Resilia
 
 ## Skills
 
