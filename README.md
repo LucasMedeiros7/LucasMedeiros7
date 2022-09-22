@@ -1,6 +1,6 @@
 # Hi 👋 My name is Lucas Medeiros
 
-## ⚛️ Software developer
+### 💻 Full Stack Web Developer 
 
 - 🌍  I'm based in Brazil
 - ✉️  You can contact me at [lucaasmedeiros7@gmail.com](mailto:lucaasmedeiros7@gmail.com)
