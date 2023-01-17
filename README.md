@@ -22,7 +22,7 @@ A software developer with a diverse set of skills and a relentless drive to crea
 > **Living in:** Maricá - RJ, Brazil\
 > **Favorite Game:** The last of us
 
-**Stack:** `HTML` `CSS` `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `Docker`
+#### **Stack:** `HTML` `CSS` `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `Docker`
 
 </samp>
 
