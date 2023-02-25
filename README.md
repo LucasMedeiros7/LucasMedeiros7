@@ -3,7 +3,7 @@
 
 <samp>
 
-A software developer with a diverse set of skills and a relentless drive to create innovative solutions, delivering elegantly crafted, clean code, always pushing to learn and improve, to create better and efficient software!
+I'm a software developer with a passion for creating innovative solutions and a diverse set of skills. I'm dedicated to delivering clean and easily maintainable code, and constantly seeking new opportunities to learn and improve myself. Currently, I'm focused on expanding my knowledge in backend technologies, architecture, and DevOps culture so I can create even better and more efficient software!
 
  
 </samp>
