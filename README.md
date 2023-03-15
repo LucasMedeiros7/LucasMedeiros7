@@ -16,13 +16,13 @@ I'm a software developer with a passion for creating innovative solutions and a 
   
   
 <samp>
-  
-> **Name:** Lucas Medeiros\
-> **Age:** 25\
-> **Living in:** Maricá - RJ, Brazil\
-> **Favorite Game:** The last of us
 
-#### **Stack:** `HTML` `CSS` `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `Docker`
+ > **Name:** Lucas Medeiros\
+ > **Age:** 25\
+ > **Living in:** Maricá - RJ, Brazil\
+ > **Favorite Game:** The last of us
+
+ #### **Stack:** `HTML` `CSS` `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `MongoDB` `Jest` `Docker`
 
 </samp>
 
