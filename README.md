@@ -3,7 +3,7 @@
 
 <samp>
 
-I'm a software developer with a passion for creating innovative solutions and a diverse set of skills. I'm dedicated to delivering clean and easily maintainable code, and constantly seeking new opportunities to learn and improve myself. Currently, I'm focused on expanding my knowledge in backend technologies, architecture, and DevOps culture so I can create even better and more efficient software!
+I'm a software developer who loves to create new and innovative solutions. I have a wide range of skills and am committed to writing code that's easy to understand and maintain. I'm always on the lookout for new ways to learn and grow. Right now, I'm focusing on expanding my knowledge of backend technologies, architecture, and DevOps culture so that I can create even better and more efficient software!
 
  
 </samp>
