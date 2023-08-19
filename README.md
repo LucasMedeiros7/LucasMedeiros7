@@ -22,11 +22,10 @@ I'm a software developer who loves to create new and innovative solutions. I hav
  > **Living in:** Maricá - RJ, Brazil\
  > **Favorite Game:** The last of us
 
- #### **Stack:** `HTML` `CSS` `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `MongoDB` `Jest` `Docker`
-
+ #### **Development:** `HTML` `CSS` `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `MongoDB` `Jest` `Docker` 
+ #### **DevOps:** `AWS` `Terraform` `Docker` `Cloudformation` `Github actions`
 </samp>
 
 <br/>
 
 You can contact me at [E-mail](mailto:lucaasmedeiros7@gmail.com) or [LinkedIn](https://linkedin.com/in/lucasmedeiross).     I'm looking forward to connecting with you :)
-
