@@ -22,7 +22,7 @@ I'm a software developer who loves to create new and innovative solutions. I hav
  > **Living in:** Maricá - RJ, Brazil\
  > **Favorite Game:** The last of us
 
- #### **Development:** `HTML` `CSS` `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `MongoDB` `Jest` `Docker` 
+ #### **Development:** `HTML` `CSS` `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `MongoDB` `Jest`
  #### **DevOps:** `AWS` `Terraform` `Docker` `Cloudformation` `Github actions`
 </samp>
 
