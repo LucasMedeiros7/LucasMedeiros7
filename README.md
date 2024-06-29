@@ -1,9 +1,9 @@
 
 <samp>
-I'm a software developer who loves to create new and innovative solutions. I have a wide range of skills and am committed to writing code that's easy to understand and maintain. I'm always on the lookout for new ways to learn and grow. Right now, I'm focusing on expanding my knowledge of backend technologies, architecture, and DevOps culture so that I can create even better and more efficient software!
+I am a software developer who loves creating simple solutions to complex problems. I have extensive skills in backend development and DevOps, and I am always looking to automate processes to speed up software delivery while writing scalable and maintainable code. I am constantly seeking new ways to learn and grow. Currently, I am focused on expanding my knowledge in architecture technologies, DevOps, and observability and reliability!
 
  #### **Development:** `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `MongoDB` `Jest`
- #### **DevOps:** `AWS` `Terraform` `Docker` `Cloudformation` `Github Actions`
+ #### **DevOps:** `Linux` `AWS` `Terraform` `Cloudformation` `Docker` `Kubernetes` `Github Actions` `Python` 
 </samp>
 
 <br/>
