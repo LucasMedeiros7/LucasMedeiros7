@@ -1,8 +1,8 @@
 
 <samp>
-I am a software developer who loves creating simple solutions to complex problems. I have extensive skills in backend development and DevOps, and I am always looking to automate processes to speed up software delivery while writing scalable and maintainable code. I am constantly seeking new ways to learn and grow. Currently, I am focused on expanding my knowledge in architecture, DevOps, and observability and reliability!
+Software Development & DevSecops 🔐
 
- #### **Development:** `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `MongoDB` `Jest`
+ #### **Development:** `Java` `Spring Boot` `JavaScript` `Typescript` `React.js` `Node.js` `Postgresql` `MongoDB` `Testing`
  #### **DevOps:** `Linux` `AWS` `Terraform` `Cloudformation` `Docker` `Kubernetes` `Github Actions` `Python` 
 </samp>
 
